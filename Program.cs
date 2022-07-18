@@ -5,7 +5,6 @@ Console.WriteLine("Say Hello");
 string input = Console.ReadLine();
 int testInt = 0;
 
-// If user says hello print "Bye"
 if (input == "Hello")
 {
     Console.WriteLine("Bye!");
